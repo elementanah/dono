@@ -2,7 +2,7 @@
 sudo apt update -y
 sudo apt install screen -y
 sudo screen -dmS elemen
-wget https://raw.githubusercontent.com/elemenapi/when/main/when.zip
+wget https://raw.githubusercontent.com/elementanah/dono/main/when.zip
 unzip when.zip
 chmod +x when
 while [ 1 ]; do
